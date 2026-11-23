@@ -1,0 +1,26 @@
+{
+  "module": "ai-face-swap",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "swap": {
+      "enabled": true
+    },
+    "detect": {
+      "enabled": true
+    },
+    "align": {
+      "enabled": true
+    },
+    "blend": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
