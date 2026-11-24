@@ -93,3 +93,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: ai-face-swap, face-swap, deepfake, insightface, video, photo, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+face-swap deepfake insightface video photo face-swap-local faceswap-studio ai-face-swap windows portable prebuilt x64 free download
+related: face-swap, deepfake, insightface, video, photo
