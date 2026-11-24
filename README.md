@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="ai-face-swap" width="840" />
-
 # AiFaceSwap — Real-Time Face Swap for Photos and Video (Portable x64 Build, JSON Configuration)
 
 <p><strong>AiFaceSwap — Real-Time Face Swap for Photos and Video (Portable x64 Build, JSON Configuration): Face swap for photos and video — one script, fully local. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
